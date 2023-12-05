@@ -1,0 +1,33 @@
+= Modelo de Livro em AsciiDoc
+:author: Zé Ninguem
+:email: zéninguem@acme.com
+:revnumber: v0.0.1
+:revdate: 2023-12-04
+:doctype: book
+:toc: left
+:toc-title: Sumário
+:icons:
+:data-uri:
+:lang: pt
+:source-highlighter: rouge
+:source-language: Kotlin
+:rouge-style: monokai
+
+[dedication]
+include::book/pre-textual/dedication.adoc[]
+
+[preface]
+include::book/pre-textual/preface.adoc[]
+
+include::book/pre-textual/about.adoc[]
+
+include::book/textual/01_Introducao.adoc[]
+
+include::book/textual/02_Estrutura-Sequencial.adoc[]
+
+[bibliography]
+include::book/pos-textual/bibliography.adoc[]
+
+[appendix]
+include::book/pos-textual/appendix.adoc[]
+

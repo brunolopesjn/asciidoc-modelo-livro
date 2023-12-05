@@ -1,0 +1,7 @@
+== Referências
+
+SILVA, João. *Desenvolvimento de Aplicações Web com Kotlin*. São Paulo: Editora Tech, 2021.
+
+COSTA, Maria; LOPES, Ana. *Inovações em Programação Móvel*. Revista de Tecnologia da Informação, v. 15, n. 3, p. 200-215, Jul. 2020.
+
+ANDRADE, Carlos. *Inteligência Artificial na Indústria 4.0*. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Tecnologia, Curitiba, 2019.
