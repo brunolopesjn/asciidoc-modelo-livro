@@ -6,3 +6,4 @@ O livro é composto pelos seguintes capítulos:
 
 - [ ] Capítulo 1 - Introdução
 - [ ] Capítulo 2 - XPTO
+- [ ] Capítulo 3 - XPTO
