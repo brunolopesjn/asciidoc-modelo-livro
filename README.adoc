@@ -1,9 +1,7 @@
-= Programação de Computadores com Kotlin
+= Modelo de livro em AsciDoc
 
-Livro que aborda o tema de programação de computadores com a linguagem de programação Kotlin.
+Modelo criado em AsciiDoc para produção de conteúdo em forma de livro.
 
-O livro é composto pelos seguintes capítulos:
+Foi criado um tema customizado para o livro que utiliza as fontes Bitter, Roboto e Fira Code Nerd Font para o texto, cabeçalhos e código, respectivamente. Também adiciona uma imagem como capa frontal e outra como capa traseira, além de trazer uma organização inicial das seções (ainda existem pontos a serem melhorados). 
 
-- [ ] Capítulo 1 - Introdução
-- [ ] Capítulo 2 - XPTO
-- [ ] Capítulo 3 - XPTO
+Contribuições serão ben vindas
