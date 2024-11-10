@@ -1,4 +1,4 @@
-= Modelo de livro em AsciDoc
+= Modelo de livro em AsciiDoc
 
 Modelo criado em AsciiDoc para produção de conteúdo em forma de livro.
 
