@@ -7,7 +7,7 @@ Deserunt pariatur amet pariatur excepteur est qui voluptate aliqua laborum. Lore
 Velit duis enim sunt nisi elit proident sint incididunt consequat sit in mollit commodo. Tempor ex cillum do labore amet do est exercitation do aliquip cupidatat ut. Qui aliquip ipsum aliqua commodo tempor ullamco elit mollit incididunt adipisicing non. Anim et magna exercitation deserunt magna voluptate magna ullamco non quis et. Irure non ex ad Lorem. Nostrud sunt enim fugiat quis ad fugiat.
 
 .Exemplo de um código Kotlin
-[#hello,kotlin]
+[#hello,kotlin, linenums]
 ----
 fun main() {
     println("Hello world!")

@@ -5,3 +5,24 @@ Modelo criado em AsciiDoc para produção de conteúdo em forma de livro.
 Foi criado um tema customizado para o livro que utiliza as fontes Bitter, Roboto e Fira Code Nerd Font para o texto, cabeçalhos e código, respectivamente. Também adiciona uma imagem como capa frontal e outra como capa traseira, além de trazer uma organização inicial das seções (ainda existem pontos a serem melhorados). 
 
 Contribuições serão ben vindas
+
+== Requisitos
+
+- Instalação do HomeBrew
+- Instalação do Ruby mais recente
+[,console]
+----
+brew install ruby
+brew link --overwrite ruby --force
+----
+- Instalação do *asciidoctor*
+[,console]
+----
+gem install asciidoctor-pdf
+----
+- Adicionar no arquivo _.zshrc_ o diretório das gems no PATH
+[,console]
+----
+GEMSDIR=$(gem environment gemdir)/bin
+export PATH=$GEMSDIR:$PATH
+----
