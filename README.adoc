@@ -8,21 +8,24 @@ Contribuições serão ben vindas
 
 == Requisitos
 
-- Instalação do HomeBrew
-- Instalação do Ruby mais recente
-[,console]
+Para gerar o arquivo PDF do livro é utilizado o contêiner `docker-asciidoctor` no *Podman Desktop* (pode ser utilizado o Docker também).
+
+Para instalar o *Podman Destop*, basta acessar este https://podman-desktop.io/docs/installation[link] e seguir as instruções referentes ao seu sistema operacional
+
+Para iniciar um contêiner no Podman Desktop, basta executar o seguinte comando:
+
+[,bash]
 ----
-brew install ruby
-brew link --overwrite ruby --force
+podman run -it -v ./:/documents/ docker.io/asciidoctor/docker-asciidoctor
 ----
-- Instalação do *asciidoctor*
-[,console]
+
+== Gerando o PDF do livro
+
+Após iniciar o conmtêiner com o *Podman Desktop* podemos gerar o arquivo PDF do livro com o seguinte comando:
+
+[,bash]
 ----
-gem install asciidoctor-pdf
+make
 ----
-- Adicionar no arquivo _.zshrc_ o diretório das gems no PATH
-[,console]
-----
-GEMSDIR=$(gem environment gemdir)/bin
-export PATH=$GEMSDIR:$PATH
-----
+
+Será gerado uma pasta `output` com um arquivo chamado *book.pdf*.

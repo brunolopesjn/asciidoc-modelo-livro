@@ -2,7 +2,12 @@
 
 Enim qui ad deserunt reprehenderit duis. Dolore sit duis esse anim. Est consectetur cupidatat elit amet culpa do occaecat est reprehenderit magna. Nostrud nulla commodo esse tempor minim sit. Nisi laboris proident dolor do sit.
 
-Deserunt pariatur amet pariatur excepteur est qui voluptate aliqua laborum. Lorem do adipisicing eu eu ad non adipisicing nostrud sunt et mollit ullamco. Adipisicing ut eu laborum laborum nostrud proident est sit minim nulla. Non officia id nulla quis ipsum nostrud incididunt aliquip id. Et dolor adipisicing cupidatat culpa nostrud. Tempor magna deserunt qui voluptate Lorem irure aliqua amet irure cupidatat aliqua.
+Deserunt pariatur amet pariatur excepteur est qui voluptate aliqua laborum. Lorem do adipisicing eu eu ad non adipisicing nostrud sunt et mollit ullamco. Adipisicing ut eu laborum laborum nostrud proident est sit minim nulla. Non officia id nulla quis ipsum nostrud incididunt aliquip id. Et dolor adipisicing cupidatat culpa nostrud. Tempor magna deserunt qui voluptate Lorem irure aliqua amet latexmath:[$ C = \alpha + \beta Y^{\gamma} + \epsilon $] irure cupidatat aliqua.
+
+[latexmath]
+++++
+ \int_a^b f(x) \, dx 
+++++
 
 Velit duis enim sunt nisi elit proident sint incididunt consequat sit in mollit commodo. Tempor ex cillum do labore amet do est exercitation do aliquip cupidatat ut. Qui aliquip ipsum aliqua commodo tempor ullamco elit mollit incididunt adipisicing non. Anim et magna exercitation deserunt magna voluptate magna ullamco non quis et. Irure non ex ad Lorem. Nostrud sunt enim fugiat quis ad fugiat.
 

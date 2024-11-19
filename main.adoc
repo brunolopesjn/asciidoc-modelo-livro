@@ -10,6 +10,7 @@
 :preface-title: Agradecimentos
 :icons:
 :data-uri:
+:stem: latexmath
 :lang: pt
 :source-highlighter: rouge
 :source-language: Kotlin
